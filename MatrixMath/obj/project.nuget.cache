@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGWYHe7QC77QRVxCCUcsHRJcmtHgy29jCEQT6oWyuoANm64YWMMRvq8/+8qwJ7xIz1yrwopYg2IKTzzHv+Yf+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jack\\OneDrive\\Desktop\\Matrix\\MatrixMath\\MatrixMath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jack\\.nuget\\packages\\ksu.cs.codeanalyzers\\1.0.3.2\\ksu.cs.codeanalyzers.1.0.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

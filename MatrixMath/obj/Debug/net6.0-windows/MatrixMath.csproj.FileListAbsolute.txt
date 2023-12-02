@@ -1,0 +1,32 @@
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.exe
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.deps.json
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.runtimeconfig.json
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.dll
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.pdb
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.UxMatrixMath.resources
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.csproj.GenerateResource.cache
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.AssemblyInfoInputs.cache
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.AssemblyInfo.cs
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.csproj.CoreCompileInputs.cache
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.dll
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\refint\MatrixMath.dll
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.pdb
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.genruntimeconfig.cache
+C:\Users\Jack\OneDrive\Desktop\CIS 300\homework-assignment-2-HawkeyexBj\MatrixMath\obj\Debug\net6.0-windows\ref\MatrixMath.dll
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.exe
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.deps.json
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.runtimeconfig.json
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.dll
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\bin\Debug\net6.0-windows\MatrixMath.pdb
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.UxMatrixMath.resources
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.csproj.GenerateResource.cache
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.AssemblyInfoInputs.cache
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.AssemblyInfo.cs
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.csproj.CoreCompileInputs.cache
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.dll
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\refint\MatrixMath.dll
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.pdb
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\MatrixMath.genruntimeconfig.cache
+C:\Users\Jack\OneDrive\Desktop\Matrix\MatrixMath\obj\Debug\net6.0-windows\ref\MatrixMath.dll
